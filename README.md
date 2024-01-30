@@ -16,7 +16,7 @@ This repository hosts an intelligent system designed to identify deceptive news 
    ```bash
    git clone https://https://github.com/NoorMuhammad106/Fake-News-Detection
 
-Contact
+## Contact
 For inquiries, issues, or collaboration, contact us at noormuhammadd106@gmail.com.
 
 Let's work together to enhance information integrity online! 🌐✨ 
