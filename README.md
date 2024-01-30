@@ -12,11 +12,6 @@ This repository hosts an intelligent system designed to identify deceptive news 
 - **Django Backend:** Seamless web integration, facilitating user-friendly deployment.
 
 
- **Clone the Repository:**
-   ```bash
-   git clone https://https://github.com/NoorMuhammad106/Fake-News-Detection
-
-
 ## Contact
 
 For inquiries, issues, or collaboration, feel free to reach out to us at [noormuhammadd106@gmail].
